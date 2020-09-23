@@ -10,8 +10,8 @@
 
 ![UI](https://tva1.sinaimg.cn/large/007S8ZIlgy1giuxj2f2ugj30kt0hlwhr.jpg)
 
-> 项目地址： code/task
+> 项目地址： [code/task](code/task)
 >
-> 视频：code/task.mp4
+> 视频：[code/task.mp4](code/task.mp4)
 >
 > 笔记未全，后面补上
