@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/03-04-study-materials/code/3-4-3-3-×é¼þ¿â¿ª·¢/01-vue-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/03-04-study-materials/code/3-4-3-3-×é¼þ¿â¿ª·¢/03-lgelement" vcs="Git" />
   </component>
 </project>

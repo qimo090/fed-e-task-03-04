@@ -1,0 +1,30 @@
+{
+  "name": "02-custom-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve"
+  },
+  "dependencies": {
+    "@vue/cli-service-global": "^4.5.6",
+    "element-ui": "^2.4.5",
+    "global": "^4.4.0",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^1.1.1",
+    "vue-cli-plugin-element": "~1.0.1"
+  },
+  "license": "MIT",
+  "babel": {
+    "plugins": [
+      [
+        "component",
+        {
+          "libraryName": "element-ui",
+          "styleLibraryName": "theme-chalk"
+        }
+      ]
+    ]
+  }
+}
